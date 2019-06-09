@@ -3,14 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.test.apachesparkdemo1;
+package apachesparkone;
 
 /**
  *
  * @author peter
  */
 public class TestOne {
-    public static void main(String[] args) {
-        System.err.println("TestOne 55rrssss");
-    }
+    
 }
